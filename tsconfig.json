@@ -9,7 +9,7 @@
         "esModuleInterop": true,
         "forceConsistentCasingInFileNames": true,
         "isolatedModules": true,
-        "jsx": "react-jsx",
+        "jsx": "react",
         "moduleResolution": "node",
         //if it's true, project not working
         "noEmit": false,
